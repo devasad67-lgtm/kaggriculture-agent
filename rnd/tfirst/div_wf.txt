@@ -1,0 +1,72 @@
+113663279 James Y 3786 20329 W firstdiv 6 d0.2 [(2, 3, '.', 'PLME'), (2, 4, 'PLWH', '.')]
+113664428 williams 3509 11909 W firstdiv 6 d0.2 [(2, 3, '.', 'PLME'), (2, 4, 'PLWH', '.')]
+113665573 GarrieD 3121 36159 W firstdiv 156 d6.5 [(5, 3, 'CO', 'PA'), (5, 4, 'COGO', 'PACO')]
+113666722 konchu2 3222 5824 W firstdiv 497 d20.7 [(3, 1, '.', 'PLWH'), (1, 9, 'PLWH', '.')]
+113667911 RIVEN23 2736 1287 W firstdiv 497 d20.7 [(3, 1, '.', 'PLWH'), (1, 9, 'PLWH', '.')]
+113669083 Sonu Yadav 2584 -11786 L firstdiv 30 d1.2 [(4, 2, '.', 'PA'), (2, 4, 'PLWH', 'PA')]
+113670279 LaManbo 2834 2119 W firstdiv None  
+113671447 Factual Explor 2908 3955 W firstdiv 156 d6.5 [(5, 3, 'CO', 'PA'), (5, 4, 'COGO', 'PACO')]
+113672656 BayramAnnakov 2437 2308 W firstdiv 657 d27.4 [(5, 3, 'COGO', 'PACO'), (2, 6, 'PLCA', 'PLWH')]
+113673858 Narendra Sirvi 2406 2400 W firstdiv None  
+113675037 Yudai Ueno 2109 1939 W firstdiv 696 d29.0 [(6, 0, 'WE', '.'), (0, 2, '.', 'WE'), (5, 8, '.', 'WE')]
+113676236 Andrey Baranov 2299 869 W firstdiv None  
+113677442 JR 2099 20858 W firstdiv 48 d2.0 [(4, 2, 'PA', '.'), (4, 4, 'PACO', 'PA')]
+113678641 Busya PRIME 1930 21052 W firstdiv 48 d2.0 [(4, 2, 'PA', '.'), (4, 4, 'PACO', 'PA')]
+113679776 yuxuan 830 15780 W firstdiv 48 d2.0 [(4, 2, 'PA', '.'), (4, 4, 'PACO', 'PA')]
+113680978 atl132 1455 6584 W firstdiv 384 d16.0 [(5, 7, '.', 'WE'), (8, 9, 'WE', '.')]
+113682149 Will Rice 1773 98 W firstdiv 704 d29.3 [(8, 2, '.', 'PLCA'), (9, 4, '.', 'PLCA'), (2, 7, 'WE', '.')]
+113683344 Kyle 1107 15709 W firstdiv 48 d2.0 [(4, 2, 'PA', '.'), (4, 4, 'PACO', 'PA')]
+113684427 Dhayaney Vijay 1401 1323 W firstdiv None  
+113685247 Apple Joy 1642 21078 W firstdiv 48 d2.0 [(4, 2, 'PA', '.'), (4, 4, 'PACO', 'PA')]
+113685785 sunil kumar 1353 1981 W firstdiv None  
+113686914 hangglider5 1314 16144 W firstdiv 48 d2.0 [(4, 2, 'PA', '.'), (4, 4, 'PACO', 'PA')]
+113688091 Chaos 762 15555 W firstdiv 48 d2.0 [(4, 2, 'PA', '.'), (4, 4, 'PACO', 'PA')]
+113688818 Sebastian Joha 1463 17455 W firstdiv 48 d2.0 [(4, 2, 'PA', '.'), (4, 4, 'PACO', 'PA')]
+113689285 onick_man 1402 612 W firstdiv 658 d27.4 [(8, 4, 'PLWH', 'PLCA'), (2, 5, 'PLWH', 'PLCA'), (2, 6, 'PLWH', 'PLCA')]
+113690461 YYC3 1289 589 W firstdiv 168 d7.0 [(1, 0, '.', 'WE'), (0, 1, 'WE', '.')]
+113691662 Seho.Connect 1118 4502 W firstdiv 157 d6.5 [(6, 0, 'PLWH', 'PLCA'), (4, 2, 'PACO', '.')]
+113692847 fmind 1368 440 W firstdiv 672 d28.0 [(3, 2, 'CO', 'COGO'), (1, 9, 'WE', '.')]
+113694021 mraz1006 1143 70 W firstdiv 549 d22.9 [(0, 0, 'PLWH', 'PLCA'), (8, 0, 'PLWH', 'PLCA')]
+113695338 JM 545 -112 L firstdiv 167 d7.0 [(6, 0, 'PLWH', 'PLCA'), (8, 0, 'PLWH', 'PLCA')]
+113696379 flaty 562 -87 L firstdiv 696 d29.0 [(8, 0, '.', 'WE'), (9, 2, '.', 'WE')]
+113697575 Mao Nishino (m 751 16696 W firstdiv 48 d2.0 [(4, 2, 'PA', '.'), (4, 4, 'PACO', 'PA')]
+113699937 PadroChill Far 1030 683 W firstdiv None  
+113701119 Ajanraj 1232 16924 W firstdiv 48 d2.0 [(4, 2, 'PA', '.'), (4, 4, 'PACO', 'PA')]
+113702292 MatheusPSoranc 1275 1531 W firstdiv None  
+113703469 Roy Lo TW 935 81 W firstdiv 551 d23.0 [(0, 0, 'PLWH', 'PLCA'), (9, 0, 'PLWH', 'PLCA'), (0, 9, 'PLWH', 'PLCA')]
+113705854 Joseph Ayanda 822 1093 W firstdiv None  
+113706952 Ahmed Hazem Ab 1042 752 W firstdiv 576 d24.0 [(6, 7, 'WE', '.'), (7, 7, 'WE', '.'), (5, 8, 'WE', '.')]
+113708224 choqui62 1006 1156 W firstdiv 503 d21.0 [(2, 1, 'PLWH', 'PLCA'), (0, 8, 'PLWH', 'PLCA')]
+113709430 PavelLiashkov 739 417 W firstdiv 336 d14.0 [(9, 5, 'WE', '.'), (8, 7, '.', 'WE')]
+113709880 Manat 849 -13 L firstdiv 567 d23.6 [(0, 1, 'PLWH', 'PLCA'), (8, 1, '.', 'PLST'), (7, 2, 'PLWH', 'PLCA')]
+113710623 hatata 170 15473 W firstdiv 48 d2.0 [(4, 2, 'PA', '.'), (4, 4, 'PACO', 'PA')]
+113713000 minghao mei 749 1007 W firstdiv None  
+113714189 varshitha kolu 695 747 W firstdiv None  
+113716559 GanadorPlusUlt 1328 172 W firstdiv 696 d29.0 [(4, 1, 'COGO', 'CO'), (6, 2, 'PASH', 'PA'), (3, 3, 'PASH', 'PA')]
+113717738 tmcoder 860 872 W firstdiv None  
+113721309 MAHESH ISHRAN 933 400 W firstdiv 503 d21.0 [(2, 1, 'PLWH', 'PLCA'), (0, 8, 'PLWH', 'PLCA')]
+113722489 Dean0016 1160 -844 L firstdiv 519 d21.6 [(2, 0, 'PLWH', 'PLCA'), (0, 8, 'PLWH', 'PLCA')]
+113723654 Sridip Basu 1503 -161 L firstdiv 672 d28.0 [(7, 0, 'WE', '.'), (9, 1, 'PLWH', 'PLCA')]
+113724795 Chaos 762 -577 L firstdiv 383 d16.0 [(0, 0, 'PLWH', 'PLCA'), (8, 0, 'PLWH', 'PLCA'), (0, 9, 'PLWH', 'PLCA')]
+113725698 Kavinkumar M 1110 1590 W firstdiv 659 d27.5 [(5, 1, 'PLWH', 'PLCA'), (2, 6, 'PLWH', 'PLCA')]
+113726032 NineThree 392 -225 L firstdiv None  
+113727216 herens 381 8170 W firstdiv 384 d16.0 [(7, 7, 'WE', '.'), (8, 8, '.', 'WE')]
+113728519 Shawn404 131 -3654 L firstdiv None  
+113729601 zeyu lau 1026 384 W firstdiv None  
+113730794 Munal Singh 823 273 W firstdiv 167 d7.0 [(6, 0, 'PLWH', 'PLCA'), (8, 0, 'PLWH', 'PLCA')]
+113731978 techno coven 1032 -120 L firstdiv None  
+113733180 mgoto51004 791 717 W firstdiv 456 d19.0 [(9, 6, '.', 'WE'), (6, 7, '.', 'WE')]
+113734368 hidenov 853 5772 W firstdiv 504 d21.0 [(7, 8, 'WE', '.'), (8, 8, 'WE', '.')]
+113735554 hiros 1025 -235 L firstdiv 549 d22.9 [(0, 0, 'PLWH', 'PLCA'), (8, 0, 'PLWH', 'PLCA')]
+113736744 yuki0731 854 -446 L firstdiv 407 d17.0 [(9, 0, 'PLWH', 'PLCA'), (0, 1, 'PLWH', 'PLCA'), (9, 1, 'PLWH', 'PLCA')]
+113737844 Back 647 1471 W firstdiv 696 d29.0 [(0, 1, 'WE', '.'), (1, 3, 'WE', '.')]
+113746326 offhand 80 -4632 L firstdiv 167 d7.0 [(6, 0, 'PLWH', 'PLCA'), (8, 0, 'PLWH', 'PLCA')]
+113754629 UjjwalPardeshi -1 -3454 L firstdiv None  
+113757486 wakawakayu -1 140 W firstdiv 567 d23.6 [(0, 1, 'PLWH', 'PLCA'), (7, 2, 'PLWH', 'PLCA')]
+113757495 SoedaHaruto -1 640 W firstdiv None  
+113760536 Leonardo Viola -1 890 W firstdiv None  
+113769885 wei chang -1 613 W firstdiv 657 d27.4 [(2, 6, 'PLWH', 'PLCA'), (6, 7, '.', 'WE')]
+113777938 Saravanan Jaic -1 6463 W firstdiv 64 d2.7 [(1, 0, 'PLWH', '.'), (0, 1, 'PLWH', '.')]
+113779199 Ruslan Kovyche -1 4248 W firstdiv 567 d23.6 [(0, 1, 'PLCA', 'PLWH'), (4, 2, 'PACO', '.'), (7, 2, 'PLCA', 'PLWH')]
+113786890 Bertan Pank -1 1450 W firstdiv None  
+113787597 rkd -1 646 W firstdiv None  

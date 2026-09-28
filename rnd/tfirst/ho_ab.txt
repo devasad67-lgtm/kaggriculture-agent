@@ -1,0 +1,21 @@
+ALL            n=184 W/L base 137-47  cand 140-44  flipped 3  lost 0  net +3  dmargin -1
+rank1-100      n=  3 W/L base 1-2  cand 1-2  flipped 0  lost 0  net +0  dmargin -538
+rank101-700    n= 64 W/L base 51-13  cand 51-13  flipped 0  lost 0  net +0  dmargin +17
+carrotswap     n= 56 W/L base 37-19  cand 40-16  flipped 3  lost 0  net +3  dmargin +48
+pure           n= 44 W/L base 37-7  cand 37-7  flipped 0  lost 0  net +0  dmargin -1
+div            n= 63 W/L base 49-14  cand 49-14  flipped 0  lost 0  net +0  dmargin -46
+NONMIRROR      n= 21 W/L base 14-7  cand 14-7  flipped 0  lost 0  net +0  dmargin +0
+tomato         n= 31 W/L base 19-12  cand 19-12  flipped 0  lost 0  net +0  dmargin +8
+non-tomato     n=153 W/L base 118-35  cand 121-32  flipped 3  lost 0  net +3  dmargin -3
+   ('113402632', 6901.0, 6363.0, 2773, False, True, 'div')
+   ('113408969', 3073.0, 3422.0, 885, False, True, 'carrotswap')
+   ('113450642', 959.0, 564.0, 597, False, True, 'carrotswap')
+   ('113453211', -71.0, 46.0, 896, False, True, 'carrotswap')
+   ('113455318', 1104.0, 1585.0, 390, False, True, 'carrotswap')
+   ('113476697', 1720.0, 2627.0, 374, False, True, 'carrotswap')
+   ('113486407', 274.0, 627.0, 306, False, True, 'carrotswap')
+   ('113535325', -3840.0, -4241.0, 192, False, True, 'div')
+   ('113540619', -6696.0, -8311.0, 100, False, True, 'div')
+   ('113412702', -134.0, 9.0, -1, False, True, 'carrotswap')
+   ('113465965', -388.0, -847.0, -1, False, True, 'div')
+   ('113597945', -59.0, 155.0, -1, False, True, 'carrotswap')

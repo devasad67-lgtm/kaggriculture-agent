@@ -1,0 +1,26 @@
+Topic #743716: My RL Won, But Also Failed: Two Days of Training on a 196-Core Server
+  Author: dzjiann
+  Posted: 2026-09-26 15:01:09.556000
+  Votes: 1  Comments: 0
+
+I spent the last three days running reinforcement learning on a 196-core server.
+
+In one sense, it worked surprisingly well.
+
+After RL training, the agent could beat the public scripts with nearly a 90% win rate. Compared with the initial policy, the improvement was very obvious, and for a while I thought RL might be the key to pushing much further.
+
+But then the improvement basically stopped.
+
+Even after adding self-play, the agent quickly reached a plateau. More training did not seem to produce meaningfully stronger strategies.
+
+The more interesting problem was that its performance against strong players barely improved.
+
+Despite being extremely good at beating the public scripts, the RL agent could only reach around the top 100 at best. More surprisingly, against high-scoring players, it was actually weaker than several of my earlier approaches that were based purely on mathematical reasoning and dynamic programming.
+
+I still think RL has potential here, but simply throwing more compute and more self-play at the problem does not seem to be enough.
+
+Maybe the real challenge is not optimizing the policy harder, but creating a training population and objective that actually force the agent to discover more general strategies.
+
+Would be very interested to hear how others would approach this.
+
+No comments

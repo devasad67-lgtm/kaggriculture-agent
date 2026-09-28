@@ -1,0 +1,26 @@
+games 40 final 97185 97794
+REVENUE
+  WHEAT           26193    39992  -13799
+  STRAWBERRY      27578    27779    -202
+  WOOL            20840    20987    -147
+  MILK            18587    18902    -315
+  FERTILIZER      15062    15109     -47
+  MELON           14394    14271    +123
+  CARROT           6389     6923    -533
+  TOMATO           4833     4923     -90
+  EGG              4313     4470    -156
+  total 138188 153355
+COSTS
+  PROD:WHEAT          16504    30679  -14175
+  HIRE                 5902     5925     -23
+  LAND                 4400     4400      +0
+  ANIMAL:SHEEP         3950     3925     +25
+  SEED:STRAWBERRY      3300     3305      -5
+  ANIMAL:COW           2820     2840     -20
+  PROD:FERTILIZER      2400     2321     +79
+  SEED:WHEAT           1539     1500     +40
+  SEED:MELON            960      960      +0
+  SEED:CARROT           825      892     -68
+  ANIMAL:GOOSE          840      870     -30
+  SEED:TOMATO           112      162     -50
+  total 43552 57779

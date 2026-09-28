@@ -1,0 +1,14 @@
+Topic #743179: Scoring Formula or conditions 
+  Author: Hole Neckles
+  Posted: 2026-09-25 05:50:41.563000
+  Votes: 0  Comments: 3
+
+Hello. I’d like to ask something: according to the competition rules, agents that do not lose and achieve high scores in the game within the Kaggle environment earn a high ranking on the leaderboard. I tested an agent that holds a high leaderboard rank; it scored only 6 points in the game (despite its 1700 leaderboard score), whereas my agent never loses and its game score never drops below 33,000. I have utilized all the game features, yet my agent's leaderboard score is only 282. Am I misunderstanding something about the rules?
+
+Comments:
+├─ Yusuke Hayashi (2026-09-25 08:37:48.307000) [+0]
+│  https://www.kaggle.com/competitions/kaggriculture/leaderboard?search=Neckles&amp;submissionId=56540011 is your agent's action. Even if you achieve a score of 33,000, if your score is lower than you...
+  ├─ Hole Neckles (2026-09-25 10:03:46.983000) [+0]
+  │  Thanks for answer. But if one agent sometimes loses how can be gain high score than agent which never losses and every time guaranteed score minimum 33000.
+    ├─ Yusuke Hayashi (2026-09-25 10:58:33.743000) [+0]
+    │  If you truly never lost a single time on Kaggle, your rating would exceed 3000 and rise to the 1st spot. Your agent actually loses frequently and has a low rating. By the way, matches between stron...

@@ -1,0 +1,14 @@
+candidate              opponent                                      W  L  T   mean$   margin  (1105s)
+r_L48                  dp0924                                        8  2  0    96016      302
+r_L48                  dp_L8o                                        8  2  0    96972      838
+r_L48                  kaggriculture-cha22-agent                     8  2  0    96016      302
+r_L48                  kaggriculture-harvest-ledger                 10  0  0   101149    16605
+r_L48                  kaggriculture-herd-safe-sale-window-race-ca2 10  0  0    97740      352
+r_L48                  pioneers-of-kaggle-town-candidate-2          10  0  0    97920      760
+r_L48                  pre0924                                      10  0  0    96905     1269
+r_L48                  r_L24                                        10  0  0    97005      481
+r_L48                  r_L32                                        10  0  0    96956      472
+r_L48                  shep_L720a                                   10  0  0    98417      942
+r_L48                  v43u0924                                     10  0  0    99887     3010
+-- totals
+r_L48                  W104 L6 T0  winrate=0.945  mean margin=2303

@@ -1,0 +1,8 @@
+dp_L8o                 demand-preserving-turn-sale-timing            8  0  0    97525    17131
+dp_L8o                 dp_L720a                                      8  0  0    96691    16522
+dp_L8o                 dp_L8a                                        8  0  0    97226    16408
+dp_L8o                 kaggriculture-cha22-agent                     3  5  0   103920     -230
+dp_L8o                 kaggriculture-herd-safe-sale-window-race-ca2  3  5  0   104565      318
+dp_L8o                 pioneers-of-kaggle-town-candidate-2           5  3  0   104643      134
+-- totals
+dp_L8o                 W35 L13 T0  winrate=0.729  mean margin=8381

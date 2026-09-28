@@ -1,0 +1,29 @@
+# environment / tooling
+.venv/
+.claude/
+__pycache__/
+*.pyc
+# third-party material (public notebooks, datasets, community agents)
+public/
+data/
+input/
+# game replays, run outputs, logs, archives
+*replay*.json
+*.jsonl
+*.log
+*.zip
+*.tar.gz
+*.gz
+ladder/**/*.json
+ladder/**/*.csv
+rnd/**/*.json
+arena/**/*.json
+kaggriculture/replays*/
+kaggriculture/analysis/
+kaggriculture/bench_results/
+# keep only our own final bots (the rest are variants / third-party public agents)
+bots/*
+!bots/L48_wf/
+!bots/L48_mc/
+!bots/L48_cg/
+!bots/L48_sr/

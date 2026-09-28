@@ -1,0 +1,188 @@
+113391111 L48_mc 7760 LINOXYR 133552 W NONMIRROR d1diff 25  
+113392331 L48_mc 5662 Josep_Audenis 52739 W NONMIRROR d1diff 20  
+113393478 L48_mc 4013 Rohit_Raj_Sing 82733 W NONMIRROR d1diff 20  
+113394625 L48_mc 4546 Bright_O.H. 23942 W NONMIRROR d1diff 18  
+113395762 L48_mc 4923 kazwzn_S 38775 W NONMIRROR d1diff 18  
+113396917 L48_mc 3795 Uchechukwu_Aju 41458 W NONMIRROR d1diff 19  
+113398065 L48_mc 3702 blueblue222 30458 W div d1diff 1 30 [(('.', 'PA'), 1), (('PLWH', 'PA'), 1)]
+113399207 L48_mc 4028 Awesome_Egg 47013 W NONMIRROR d1diff 19  
+113400355 L48_mc 3299 Vũ_Tuấn 14662 W div d1diff 1 30 [(('.', 'PA'), 1), (('PLWH', 'PA'), 1)]
+113401493 L48_mc 2973 Артём_Свинобое 2452 W div d1diff 1 497 [(('.', 'PLWH'), 1), (('PLWH', '.'), 1)]
+113402632 L48_mc 2903 c-number 6901 W div d1diff 1 497 [(('.', 'PLWH'), 1), (('PLWH', '.'), 1)]
+113403777 L48_mc 2219 static -596 L div d1diff 1 480 [(('.', 'WE'), 1), (('WE', '.'), 1)]
+113404947 L48_mc 2740 sukirman 5994 W NONMIRROR d1diff 2  
+113405579 L48_mc 2500 Jonatan_Asketo 148846 W div d1diff 0 55 [(('PA', '.'), 1), (('PLWH', '.'), 1)]
+113406092 L48_mc 2464 iCO 4505 W div d1diff 1 647 [(('PLCA', 'PLWH'), 1), (('PACO', '.'), 1)]
+113406356 L48_mc 1667 Alex_Paul 891 W pure d1diff 1  
+113407294 L48_mc 2310 Jiarui_(Jerry) 269 W div d1diff 1 624 [(('.', 'WE'), 2)]
+113408473 L48_mc 1282 Anaconda 1419 W div d1diff 1 658 [(('PLCA', 'PLWH'), 3)]
+113408969 L48_mc 2341 Rohit_Kumar_Sa 3073 W carrotswap d1diff 0 519 [(('PLWH', 'PLCA'), 2)]
+113409647 L48_mc 1386 coolin666 3752 W pure d1diff 0  
+113410810 L48_mc 1806 Oldplaykid 3010 W div d1diff 1 504 [(('.', 'WE'), 1), (('WE', '.'), 1)]
+113410990 L48_mc 1659 Sergey_Kutepov 23695 W div d1diff 0 48 [(('PA', '.'), 1), (('PACO', 'PA'), 1)]
+113411985 L48_mc 1664 Shuqi_Zhang 21205 W div d1diff 0 48 [(('PA', '.'), 1), (('PACO', 'PA'), 1)]
+113412183 L48_mc 1380 Kadouci_Abdelh 20414 W div d1diff 0 48 [(('PA', '.'), 1), (('PACO', 'PA'), 1)]
+113413147 L48_mc 138 Evan_Tobias 741 W pure d1diff 0  
+113413229 L48_mc 843 Yuta -232 L pure d1diff 0  
+113414405 L48_mc 701 edchax 1045 W pure d1diff 0  
+113415621 L48_mc 783 kazuhiro3381 330 W NONMIRROR d1diff 2  
+113416819 L48_mc 1462 avinash_singh 12572 W div d1diff 0 48 [(('PA', '.'), 1), (('PACO', 'PA'), 1)]
+113417996 L48_mc 770 Mao_Nishino_(m 16358 W div d1diff 0 48 [(('PA', '.'), 1), (('PACO', 'PA'), 1)]
+113419153 L48_mc 850 holyholy 12936 W div d1diff 0 48 [(('PA', 'WE'), 1), (('PACO', 'PA'), 1)]
+113420319 L48_mc 491 Azamaro 1419 W pure d1diff 1  
+113421485 L48_mc 1538 farmer_zefeng 19243 W div d1diff 0 48 [(('PA', '.'), 1), (('PACO', 'PA'), 1)]
+113422640 L48_mc 1491 MatheusPSoranc -633 L pure d1diff 0  
+113423813 L48_mc 894 linmumu009 107 W pure d1diff 1  
+113424956 L48_mc 599 Abish_Pius 1032 W pure d1diff 0  
+113426064 L48_mc 823 lc今天刷了吗 -167 L carrotswap d1diff 0 237 [(('PLWH', 'PLCA'), 2)]
+113427294 L48_mc 1544 Tanampa_Ampun 1776 W NONMIRROR d1diff 2  
+113428477 L48_mc 269 Satoshi_SsSs 1279 W pure d1diff 0  
+113428536 L48_mc 853 Rohin_Kethipal 184 W carrotswap d1diff 0 522 [(('PLWH', 'PLCA'), 2)]
+113428682 L48_mc 944 Yusuraume 3062 W carrotswap d1diff 0 424 [(('PLWH', 'PLCA'), 2)]
+113429495 L48_mc 151 七月七月晴_忽然下起了大雪_ 434 W carrotswap d1diff 1 659 [(('PLWH', 'PLCA'), 2)]
+113429785 L48_mc 1345 Ajanraj 27086 W div d1diff 0 48 [(('PA', '.'), 1), (('PACO', 'PA'), 1)]
+113429893 L48_mc 1137 CleoCantCompet 446 W carrotswap d1diff 0 162 [(('PLWH', 'PLCA'), 2)]
+113430951 L48_mc 105 clora 568 W pure d1diff 0  
+113431986 L48_mc 373 codex_is_all_y 516 W pure d1diff 0  
+113433237 L48_mc 378 Hyunwoo_Park 126 W div d1diff 0 528 [(('.', 'WE'), 1), (('WE', '.'), 1)]
+113434406 L48_mc 1398 zeyu_lau 981 W div d1diff 0 696 [(('WE', '.'), 1), (('.', 'WE'), 1)]
+113435570 L48_mc 914 Seho.Connect 14546 W div d1diff 0 48 [(('PA', '.'), 1), (('PACO', 'PA'), 1)]
+113436730 L48_mc 1137 CleoCantCompet 903 W pure d1diff 0  
+113437905 L48_mc 163 Ignat 1833 W div d1diff 0 696 [(('.', 'WE'), 2)]
+113439089 L48_mc 230 Michael_Pershi 140 W div d1diff 0 696 [(('.', 'WE'), 1), (('WE', '.'), 1)]
+113440247 L48_mc 752 kaibaur -171 L carrotswap d1diff 0 519 [(('PLWH', 'PLCA'), 2)]
+113441381 L48_mc 1117 LoveB4Sunrise 18268 W div d1diff 0 48 [(('PA', '.'), 1), (('PACO', 'PA'), 1)]
+113442549 L48_mc 518 l1aF 152 W pure d1diff 0  
+113443706 L48_mc 929 Zachary_Zhang 231 W carrotswap d1diff 0 359 [(('PLWH', 'PLCA'), 3)]
+113444846 L48_mc 746 CrossEngineere 19 W NONMIRROR d1diff 2  
+113445989 L48_mc 1109 PavelLiashkov 506 W div d1diff 0 696 [(('.', 'WE'), 1), (('WE', '.'), 1)]
+113447162 L48_mc 1173 yuxuan 631 W pure d1diff 0  
+113447536 L48_mc 1430 Orig_lab 4081 W div d1diff 0 434 [(('.', 'L'), 25)]
+113448327 L48_mc 1032 Saad_Khan 288 W div d1diff 0 696 [(('.', 'WE'), 1), (('WE', '.'), 1)]
+113449470 L48_mc 652 只因队 3839 W div d1diff 0 696 [(('WE', '.'), 1), (('PACO', '.'), 1)]
+113449472 L48_mc 470 おかゆん 21360 W div d1diff 0 48 [(('PA', '.'), 1), (('PACO', 'PA'), 1)]
+113450642 L48_mc 1001 Bob_Jeff 959 W carrotswap d1diff 0 470 [(('PLWH', 'PLCA'), 2)]
+113451808 L48_mc 1633 qr_farm 521 W carrotswap d1diff 0 658 [(('PLWH', 'PLCA'), 4)]
+113452988 L48_mc 1319 Leonardo_Viola 1552 W pure d1diff 0  
+113453211 L48_mc 719 Munshi-PremCha -71 L carrotswap d1diff 1 522 [(('PLWH', 'PLCA'), 2)]
+113454030 L48_mc 877 Ishan_Karnick 845 W div d1diff 0 497 [(('PLWH', '.'), 1), (('.', 'PLWH'), 1)]
+113454144 L48_mc 976 Ryoya_Tsuruoka 1780 W div d1diff 0 600 [(('.', 'WE'), 1), (('WE', '.'), 1)]
+113455318 L48_mc 452 Around30 1104 W carrotswap d1diff 0 419 [(('PLWH', 'PLCA'), 2)]
+113456473 L48_mc 516 loss_volos 2933 W div d1diff 0 187 [(('.', 'PLST'), 1), (('PACO', 'PA'), 1)]
+113457627 L48_mc 230 Michael_Pershi -1863 L div d1diff 0 480 [(('.', 'WE'), 2), (('WE', '.'), 1)]
+113458790 L48_mc 814 Oshbocker 365 W carrotswap d1diff 0 453 [(('PLWH', 'PLCA'), 2)]
+113459135 L48_mc 266 venks 484 W div d1diff 0 188 [(('.', 'WE'), 1), (('PLCA', 'PLWH'), 1)]
+113462974 L48_mc 802 Teraya -4799 L div d1diff 0 696 [(('WE', '.'), 1), (('.', 'WE'), 1)]
+113464469 L48_mc 548 Tariq_Alyami -1595 L pure d1diff 0  
+113467788 L48_mc 820 selam_ya 1837 W carrotswap d1diff 0 573 [(('PLWH', 'PLCA'), 2)]
+113468378 L48_mc 273 tetsu2131 435 W pure d1diff 0  
+113473132 L48_mc 189 Euphor_M 241 W pure d1diff 0  
+113474244 L48_mc 377 Oleksandr_Parf 471 W pure d1diff 0  
+113476697 L48_mc 537 clove_instaloc -1755 L carrotswap d1diff 0 526 [(('PLWH', 'PLCA'), 1), (('WE', '.'), 1)]
+113481920 L48_mc 892 kazuki_morikaw 1233 W carrotswap d1diff 0 551 [(('PLWH', 'PLCA'), 2)]
+113481966 L48_mc 1163 Juste_Me_(●'◡' 406 W carrotswap d1diff 0 567 [(('PLWH', 'PLCA'), 2)]
+113483867 L48_mc 220 azamat1ch 1134 W carrotswap d1diff 0 526 [(('PLWH', 'PLCA'), 2)]
+113486301 L48_mc 797 Avineesh_Arora 381 W carrotswap d1diff 0 547 [(('PLWH', 'PLCA'), 2)]
+113486407 L48_mc 568 CemBas 274 W carrotswap d1diff 0 519 [(('PLWH', 'PLCA'), 2)]
+113490108 L48_mc 832 NineThree 774 W pure d1diff 0  
+113491259 L48_mc 1123 DaoHe_Liu -251 L carrotswap d1diff 0 549 [(('PLWH', 'PLCA'), 2)]
+113493545 L48_mc 346 Adarsh_Balanol 973 W carrotswap d1diff 0 567 [(('PLWH', 'PLCA'), 2)]
+113497977 L48_mc 402 Talvenn 302 W pure d1diff 0  
+113498697 L48_mc 863 YJ_Wee_2807 -319 L carrotswap d1diff 0 647 [(('PLWH', 'PLCA'), 2)]
+113499537 L48_mc 171 Akhil_Chinta 1052 W carrotswap d1diff 0 299 [(('PLWH', 'PLCA'), 2)]
+113503365 L48_mc 1343 Sathwik_Chinth 28 W div d1diff 0 456 [(('WE', '.'), 1), (('.', 'WE'), 1)]
+113507726 L48_mc 111 techno_coven 645 W carrotswap d1diff 0 657 [(('PLWH', 'PLCA'), 2)]
+113512781 L48_mc 1764 Rasmus_Hulthe -878 L carrotswap d1diff 0 359 [(('PLWH', 'PLCA'), 3)]
+113518432 L48_mc 1081 cotton0025 741 W carrotswap d1diff 0 167 [(('PLWH', 'PLCA'), 2)]
+113522976 L48_mc 625 Raster0x2a 598 W div d1diff 0 336 [(('WE', '.'), 3)]
+113528865 L48_mc 296 Reinforcement_ -549 L pure d1diff 0  
+113529032 L48_mc 401 crasal 905 W NONMIRROR d1diff 2  
+113531531 L48_mc 692 JinboWang 1010 W pure d1diff 0  
+113535325 L48_mc 112 leave_you -3840 L div d1diff 0 418 [(('.', 'PLWH'), 3)]
+113536032 L48_mc 695 福原_大知 880 W pure d1diff 0  
+113536692 L48_mc 2068 Dzmitry_Pihuls -624 L carrotswap d1diff 0 407 [(('PLWH', 'PLCA'), 3)]
+113540557 L48_mc 345 Xiaowenhao404 -10 L carrotswap d1diff 0 659 [(('PLWH', 'PLCA'), 1), (('.', 'WE'), 1)]
+113540619 L48_mc 116 Yaroslav -6696 L div d1diff 0 369 [(('.', 'PLWH'), 1), (('PLWH', 'PLTO'), 1)]
+113542285 L48_mc 348 senkin13 -1716 L NONMIRROR d1diff 3  
+113543724 L48_mc 459 kobq 880 W pure d1diff 0  
+113547573 L48_mc 572 east -594 L carrotswap d1diff 0 522 [(('PLWH', 'PLCA'), 2)]
+113551922 L48_mc 594 hylexi 264 W pure d1diff 0  
+113551929 L48_mc 645 goodpjw2008 732 W pure d1diff 0  
+113555897 L48_mc 279 koucha 93 W pure d1diff 0  
+113557238 L48_mc 575 Gabriel 1344 W pure d1diff 0  
+113558258 L48_mc 384 kakuteki 659 W carrotswap d1diff 0 464 [(('PLWH', 'PLCA'), 2)]
+113564164 L48_mc 816 shuto 695 W carrotswap d1diff 0 519 [(('PLWH', 'PLCA'), 2)]
+113570035 L48_mc 14 Yizhou -14936 L NONMIRROR d1diff 11  
+113570114 L48_mc 487 JezzLynn 125 W div d1diff 0 191 [(('PLCA', 'PLWH'), 4)]
+113571930 L48_mc 185 ctree4113 20 W pure d1diff 0  
+113573602 L48_mc 411 Carl_Pang -170 L carrotswap d1diff 0 359 [(('PLWH', 'PLCA'), 4)]
+113577022 L48_mc 223 tyz123456 -78 L div d1diff 0 672 [(('.', 'WE'), 2)]
+113579148 L48_mc 419 MiMi 310 W div d1diff 0 696 [(('.', 'WE'), 2)]
+113581724 L48_mc 700 Eddy_Despradel 329 W div d1diff 0 456 [(('.', 'WE'), 1), (('WE', '.'), 1)]
+113581772 L48_mc 212 Phi 1801 W carrotswap d1diff 1 551 [(('PLWH', 'PLCA'), 3)]
+113583996 L48_mc 462 Raymond_Parker -817 L NONMIRROR d1diff 2  
+113589978 L48_mc 1827 cicen1139 -5383 L div d1diff 0 336 [(('.', 'PLST'), 1), (('.', 'WE'), 1)]
+113594237 L48_mc 1136 Silhouette 724 W carrotswap d1diff 0 522 [(('PLWH', 'PLCA'), 2)]
+113597633 L48_mc 299 shikaikaikaika -1318 L carrotswap d1diff 0 522 [(('PLWH', 'PLCA'), 2)]
+113603355 L48_mc 554 porosyonok_Bei 284 W pure d1diff 0  
+113604098 L48_mc 766 goosehaaan 144 W carrotswap d1diff 0 672 [(('PLWH', 'PLCA'), 1), (('WE', '.'), 1)]
+113605244 L48_mc 166 JOSHNA_ACSHA_S 224 W pure d1diff 0  
+113612144 L48_mc 287 just_calculate -868 L div d1diff 0 336 [(('WE', '.'), 2)]
+113617473 L48_mc 382 Shs123 -859 L div d1diff 0 432 [(('.', 'WE'), 1), (('WE', '.'), 1)]
+113617921 L48_mc 442 Baligh 1516 W carrotswap d1diff 0 658 [(('PLWH', 'PLCA'), 4)]
+113377016 None None YJ_Wee_2807 -214 L carrotswap d1diff 0 375 [(('PLWH', 'PLCA'), 2)]
+113382891 None None Yuanchen_Huang -3780 L div d1diff 0 456 [(('.', 'WE'), 2)]
+113386491 None None PavelLiashkov -5269 L div d1diff 0 432 [(('WE', '.'), 1), (('.', 'WE'), 1)]
+113388812 None None sam_the_rice_c -4350 L div d1diff 0 432 [(('WE', '.'), 2)]
+113394408 None None s_a_ai_enginee -307 L div d1diff 0 696 [(('.', 'WE'), 1), (('PLWH', 'PLCA'), 1)]
+113394811 None None AI_Dmitrii -828 L div d1diff 0 600 [(('PACO', 'PA'), 2), (('PLWH', 'PLCA'), 1)]
+113398202 None None tamref -1943 L pure d1diff 0  
+113398294 None None Arthurs_Torres -756 L carrotswap d1diff 0 407 [(('PLWH', 'PLCA'), 3)]
+113399453 None None wonder777 -202 L carrotswap d1diff 0 162 [(('PLWH', 'PLCA'), 2)]
+113400211 None None Brian_Chua -52 L div d1diff 0 552 [(('.', 'WE'), 2)]
+113405273 None None tw1nstar -328 L div d1diff 1 81 [(('PLWH', 'PLST'), 1), (('PLWH', 'PA'), 1)]
+113407568 None None Aaweg -514 L NONMIRROR d1diff 11  
+113408752 None None Yin_Li -497 L carrotswap d1diff 0 464 [(('PLWH', 'PLCA'), 2)]
+113412234 None None 🐚seek_inspirat -17347 L NONMIRROR d1diff 14  
+113412702 None None clora -59 L carrotswap d1diff 0 549 [(('PLWH', 'PLCA'), 2)]
+113413378 None None Carl_Pang -1112 L carrotswap d1diff 0 658 [(('PLWH', 'PLCA'), 4)]
+113414638 None None Ian_lin -126 L div d1diff 1 696 [(('CO', 'COGO'), 1), (('WE', '.'), 1)]
+113417058 None None ziheng -257 L pure d1diff 0  
+113420566 None None HD_h_Joratos -793 L div d1diff 0 648 [(('WE', '.'), 1), (('.', 'WE'), 1)]
+113421709 None None Huifeng_Li -122 L carrotswap d1diff 0 549 [(('PLWH', 'PLCA'), 2)]
+113422982 None None Yusaku_Muroya -1415 L pure d1diff 0  
+113428703 None None OxFFFs -1124 L carrotswap d1diff 1 453 [(('PLWH', 'PLCA'), 2)]
+113430092 None None Anand_Singh -96 L pure d1diff 0  
+113432178 None None Yuan_Yongth -170 L div d1diff 0 552 [(('WE', '.'), 1), (('.', 'WE'), 1)]
+113432456 None None base_camp_2002 -1152 L pure d1diff 0  
+113433431 None None kwon_yong_deuk -247 L pure d1diff 0  
+113435824 None None abozten -662 L pure d1diff 0  
+113440919 None None redblackbst -407 L div d1diff 1 154 [(('.', 'PA'), 2), (('PLST', '.'), 1)]
+113441368 None None 七月七月晴_忽然下起了大雪_ -1005 L pure d1diff 0  
+113443305 None None bee_lx_xl -7 L carrotswap d1diff 0 383 [(('PLWH', 'PLCA'), 2)]
+113449302 None None Christoffer_Th -11784 L NONMIRROR d1diff 13  
+113453552 None None Fighting_Gold -390 L carrotswap d1diff 0 517 [(('PLWH', 'PLCA'), 2)]
+113459850 None None kyy666 -269 L div d1diff 1 61 [(('.', 'PLWH'), 1), (('PLWH', 'PA'), 1)]
+113465965 None None ADARSH_DWIVEDI -66 L div d1diff 0 696 [(('WE', '.'), 2)]
+113470760 None None John_Doge -783 L carrotswap d1diff 0 522 [(('PLWH', 'PLCA'), 2)]
+113474347 None None kobayasi -533 L pure d1diff 0  
+113480819 None None 別班 -28 L carrotswap d1diff 0 658 [(('PLWH', 'PLCA'), 4)]
+113486028 None None dodsters -8476 L div d1diff 0 397 [(('PLWH', '.'), 1), (('PLWH', 'PLST'), 1)]
+113486140 None None We_wanna_be_to -21337 L NONMIRROR d1diff 13  
+113489163 None None MILANA_STARR -107 L pure d1diff 0  
+113493930 None None Here_i_come -1168 L NONMIRROR d1diff 16  
+113500058 None None OceanMix -657 L pure d1diff 1  
+113507742 None None Roman_Tamrazov -394 L div d1diff 0 696 [(('WE', '.'), 1), (('.', 'WE'), 1)]
+113512794 None None kitano0104 -5219 L div d1diff 1 672 [(('PASH', 'PA'), 2), (('.', 'PACO'), 1)]
+113518445 None None yuya -223 L carrotswap d1diff 0 287 [(('PLWH', 'PLCA'), 3)]
+113524208 None None subsubsubagent -634 L carrotswap d1diff 0 350 [(('PLWH', 'PLCA'), 2)]
+113537361 None None que_la_cuenten -176 L div d1diff 0 663 [(('PLCA', 'PLWH'), 2)]
+113543193 None None haseryooooo -586 L carrotswap d1diff 0 359 [(('PLWH', 'PLCA'), 3)]
+113544087 None None LR.AIML -129 L div d1diff 0 480 [(('.', 'WE'), 1), (('WE', '.'), 1)]
+113552391 None None barbosi -114 L carrotswap d1diff 0 575 [(('PLWH', 'PLCA'), 2)]
+113557271 None None loss_volos -649 L NONMIRROR d1diff 2  
+113563081 None None habe.sq -966 L carrotswap d1diff 0 383 [(('PLWH', 'PLCA'), 3)]
+113597945 None None nikotin55 -626 L carrotswap d1diff 0 359 [(('PLWH', 'PLCA'), 3)]
+113607448 None None Hak -264 L carrotswap d1diff 0 663 [(('PLWH', 'PLCA'), 2)]
+113614251 None None Remielle -96 L carrotswap d1diff 1 519 [(('PLWH', 'PLCA'), 2)]
+113614447 None None Deepseek的恩情还不完 -5 L carrotswap d1diff 0 663 [(('PLWH', 'PLCA'), 2)]

@@ -1,0 +1,30 @@
+candidate              opponent                                      W  L  T   mean$   margin  (1254s)
+dp_L8r                 dp0924                                        3  3  0   114690      275
+dp_L8r                 dp_L8a                                        6  0  0    96453    12773
+dp_L8r                 dp_L8o                                        0  0  6   114844        0
+dp_L8r                 kaggriculture-cha22-agent                     3  3  0   114690      275
+dp_L8r                 kaggriculture-herd-safe-sale-window-race-ca2  5  1  0   115375      945
+dp_L8r                 pioneers-of-kaggle-town-candidate-2           4  2  0   115438      918
+n9_L8ar                dp0924                                        1  5  0   114290     -614
+n9_L8ar                dp_L8a                                        0  6  0   113986    -1444
+n9_L8ar                dp_L8o                                        0  6  0   113974    -1467
+n9_L8ar                kaggriculture-cha22-agent                     1  5  0   114290     -614
+n9_L8ar                kaggriculture-herd-safe-sale-window-race-ca2  3  3  0   114902     -344
+n9_L8ar                pioneers-of-kaggle-town-candidate-2           3  3  0   114917     -290
+n9_L8r                 dp0924                                        1  5  0   114290     -614
+n9_L8r                 dp_L8a                                        6  0  0    99157    12676
+n9_L8r                 dp_L8o                                        0  6  0   113986    -1444
+n9_L8r                 kaggriculture-cha22-agent                     1  5  0   114290     -614
+n9_L8r                 kaggriculture-herd-safe-sale-window-race-ca2  3  3  0   114906     -337
+n9_L8r                 pioneers-of-kaggle-town-candidate-2           3  3  0   114923     -277
+n9_r                   dp0924                                        0  6  0   114006    -1462
+n9_r                   dp_L8a                                        0  6  0   113726    -2082
+n9_r                   dp_L8o                                        0  6  0   113714    -2106
+n9_r                   kaggriculture-cha22-agent                     0  6  0   114006    -1462
+n9_r                   kaggriculture-herd-safe-sale-window-race-ca2  1  5  0   114747     -867
+n9_r                   pioneers-of-kaggle-town-candidate-2           1  5  0   114728     -764
+-- totals
+dp_L8r                 W21 L9 T6  winrate=0.667  mean margin=2531
+n9_L8ar                W8 L28 T0  winrate=0.222  mean margin=-796
+n9_L8r                 W14 L22 T0  winrate=0.389  mean margin=1565
+n9_r                   W2 L34 T0  winrate=0.056  mean margin=-1457

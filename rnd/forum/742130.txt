@@ -1,0 +1,42 @@
+Topic #742130: I guess we will have 30 gold medals
+  Author: Yiheng Wang
+  Posted: 2026-09-20 03:46:47.326000
+  Votes: 28  Comments: 10
+
+Which means 10K teams in this competition!
+Can we apply for a Guinness World Record together😄
+
+Comments:
+├─ Sheeesh--- (2026-09-21 23:33:36.630000) [+3]
+│  i think it's because of ai agents usage rise, that people are participating more and more
+  ├─ ktyser (2026-09-22 03:59:10.337000) [+2]
+  │  That's definitely part of it, but there's also 6 other competitions going on and none are even close to the popularity of this contest.
+    ├─ mikelou1 (2026-09-22 05:00:10.167000) [+8]
+    │  live leaderboard feedback is awesome and thats why people like it. RL/heuristics writing is much easier with AI Agents so its the most fun for people, even if they make their AI agent implement eve...
+    ├─ Joseph Adamski (2026-09-25 13:53:17.367000) [+2]
+    │  Agreed, this is basically an idle game for me, that also has a learning component.
+├─ Sayaka Miki (2026-09-20 03:51:25.733000) [+8]
+│  It's crazy…
+├─ WOOSUNG YOON (2026-09-20 09:25:09.663000) [+1]
+│  I guess this just shows how exciting this competition really is.   
+│  
+│  I’m drawn to it too. Like chess, the fun comes from complex interactions under simple rules.
+│  It's challenging, but that's what m...
+├─ Navneet (2026-09-20 09:38:24.767000) [+-8]
+│  Bravo for the 30 gold medals @yiheng
+├─ Andrey Chankin (2026-09-25 11:24:17.623000) [+0]
+│  Oh boy, I hope them make it 100k participants, so I will have a chance :)
+├─ ktyser (2026-09-21 21:14:04.563000) [+0]
+│  Crazy. I wonder what makes this competition so popular
+  ├─ Civitasmass (2026-09-22 15:18:16.357000) [+8]
+  │  Just take a look at the other competitions topic:
+  │  
+  │  ・AI attacks
+  │  
+  │  ・Cell division
+  │  
+  │  ・Bone diagnosis
+  │  
+  │  ・And the notoriously brutal ARC
+  │  
+  │  compared to all that, kaggriculture is all peace and love.

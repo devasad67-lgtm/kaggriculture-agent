@@ -1,0 +1,11 @@
+candidate              opponent                                      W  L  T   mean$   margin  (443s)
+L48_mc                 L8o_mc                                        6  0  0   111808      539
+L48_mc                 dp_L8a                                        6  0  0   131007    22824
+L48_mc                 dp_L8o                                        6  0  0   112132      774
+L48_mc                 n25_kaggriculture-harvest-ledger              6  0  0   131079    22845
+L48_mc                 n25_more-wheat                                6  0  0   130054    21604
+L48_mc                 n25_the-2965-master-hybrid-engine             6  0  0   126098    15730
+L48_mc                 pioneers-of-kaggle-town-candidate-2           2  4  0   111599     -145
+L48_mc                 r_L48                                         4  2  0   111545      104
+-- totals
+L48_mc                 W42 L6 T0  winrate=0.875  mean margin=10534

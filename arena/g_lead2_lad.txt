@@ -1,0 +1,31 @@
+candidate              opponent                                      W  L  T   mean$   margin  (2316s)
+r_L12                  dp0924                                        8  4  0   103280       99
+r_L12                  dp_L8o                                       10  2  0   104010      610
+r_L12                  kaggriculture-cha22-agent                     8  4  0   103280       99
+r_L12                  r_L12                                         0  0 12   103615        0
+r_L12                  r_L16                                         0  6  0   103294     -564
+r_L12                  r_L20                                         0  6  0   102866    -1053
+r_L12                  r_L24                                         0  6  0   102788     -938
+r_L12                  r_L32                                         0  6  0   102667     -976
+r_L16                  dp0924                                        6  6  0   103258       15
+r_L16                  dp_L8o                                       10  2  0   103933      526
+r_L16                  kaggriculture-cha22-agent                     6  6  0   103258       15
+r_L16                  r_L12                                         6  0  0   103857      564
+r_L20                  dp0924                                        6  6  0   103162     -147
+r_L20                  dp_L8o                                       12  0  0   103722      547
+r_L20                  kaggriculture-cha22-agent                     6  6  0   103162     -147
+r_L20                  r_L12                                         6  0  0   103918     1053
+r_L24                  dp0924                                        6  6  0   103219      135
+r_L24                  dp_L8o                                       12  0  0   103699      807
+r_L24                  kaggriculture-cha22-agent                     6  6  0   103219      135
+r_L24                  r_L12                                         6  0  0   103726      938
+r_L32                  dp0924                                        8  4  0   103119      166
+r_L32                  dp_L8o                                       10  0  2   103610      827
+r_L32                  kaggriculture-cha22-agent                     8  4  0   103119      166
+r_L32                  r_L12                                         6  0  0   103643      976
+-- totals
+r_L12                  W26 L34 T12  winrate=0.444  mean margin=-159
+r_L16                  W28 L14 T0  winrate=0.667  mean margin=239
+r_L20                  W30 L12 T0  winrate=0.714  mean margin=223
+r_L24                  W30 L12 T0  winrate=0.714  mean margin=442
+r_L32                  W32 L8 T2  winrate=0.786  mean margin=470

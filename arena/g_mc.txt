@@ -1,0 +1,25 @@
+candidate              opponent                                      W  L  T   mean$   margin  (1082s)
+L8o_mc                 dp0924                                        6  0  0   112319      360
+L8o_mc                 dp_L8a                                        6  0  0   131633    22480
+L8o_mc                 dp_L8o                                        3  0  0   112248      344
+L8o_mc                 kaggriculture-cha22-agent                     6  0  0   112319      360
+L8o_mc                 n25_kaggriculture-harvest-ledger              6  0  0   131811    22764
+L8o_mc                 n25_kaggriculture-master-engine-v3            6  0  0   112319      360
+L8o_mc                 n25_more-wheat                                6  0  0   130914    21999
+L8o_mc                 n25_the-2965-master-hybrid-engine             6  0  0   126726    15244
+L8o_mc                 pioneers-of-kaggle-town-candidate-2           4  2  0   112374      244
+L8o_mc                 r_L48                                         0  6  0   111424     -589
+dp_L8o                 L8o_mc                                        0  3  0   111904     -344
+dp_L8o                 dp0924                                        6  0  0   112253      313
+dp_L8o                 dp_L8a                                        6  0  0   131884    22142
+dp_L8o                 dp_L8o                                        0  0  6   112355        0
+dp_L8o                 kaggriculture-cha22-agent                     6  0  0   112253      313
+dp_L8o                 n25_kaggriculture-harvest-ledger              6  0  0   132033    22417
+dp_L8o                 n25_kaggriculture-master-engine-v3            6  0  0   112253      313
+dp_L8o                 n25_more-wheat                                6  0  0   130950    21855
+dp_L8o                 n25_the-2965-master-hybrid-engine             6  0  0   127069    15124
+dp_L8o                 pioneers-of-kaggle-town-candidate-2           6  0  0   112530      189
+dp_L8o                 r_L48                                         0  6  0   111527     -812
+-- totals
+L8o_mc                 W49 L8 T0  winrate=0.860  mean margin=8778
+dp_L8o                 W48 L9 T6  winrate=0.810  mean margin=7779

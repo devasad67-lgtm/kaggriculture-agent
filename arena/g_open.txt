@@ -1,0 +1,20 @@
+dp_L8a                 dp_L720a                                      0  6  0    84588     -900
+dp_L8a                 dp_L8a                                        0  0  6    85555        0
+dp_L8a                 dp_L8o                                        0  3  0    80115   -15741
+dp_L8a                 kaggriculture-cha22-agent                     6  0  0    84747      508
+dp_L8a                 kaggriculture-harvest-ledger                  6  0  0    85476     1243
+dp_L8a                 kaggriculture-herd-safe-sale-window-race-ca2  6  0  0    85461     1163
+dp_L8a                 pioneers-of-kaggle-town-candidate-2           6  0  0    85144      740
+dp_L8a                 the-2965-master-hybrid-engine                 6  0  0    85506     1283
+dp_L8a                 the-shepherds-ledger-herd-safe-sovereign      6  0  0    85314      894
+dp_L8o                 dp_L720a                                      6  0  0    95139    15195
+dp_L8o                 dp_L8a                                        3  0  0    95856    15741
+dp_L8o                 kaggriculture-cha22-agent                     6  0  0    84747      508
+dp_L8o                 kaggriculture-harvest-ledger                  6  0  0    96853    17507
+dp_L8o                 kaggriculture-herd-safe-sale-window-race-ca2  6  0  0    85464     1169
+dp_L8o                 pioneers-of-kaggle-town-candidate-2           6  0  0    85150      753
+dp_L8o                 the-2965-master-hybrid-engine                 6  0  0   102393    18487
+dp_L8o                 the-shepherds-ledger-herd-safe-sovereign      6  0  0    85317      900
+-- totals
+dp_L8a                 W36 L9 T6  winrate=0.765  mean margin=-346
+dp_L8o                 W45 L0 T0  winrate=1.000  mean margin=8319

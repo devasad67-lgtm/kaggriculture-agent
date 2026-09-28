@@ -1,0 +1,24 @@
+Topic #743214: Slow Rank Climb-up
+  Author: デワンシュ
+  Posted: 2026-09-25 08:45:15.284000
+  Votes: 3  Comments: 5
+
+Is it just me or the rankings are moving more slowly compared to a week ago?
+
+│                          │ Games │ Win % │ Rating │ Median rating of last 20 opponents │ Win % in those 20 │
+
+│ V21                      │ 105   │ 60%   │ 2522   │ 2443                               │ 45%               │
+│ V28                      │ 129   │ 88%   │ 2029   │ 2098                               │ 90%               │
+│ V29                      │ 85    │ 92%   │ 1887   │ 2008                               │ 90%               │
+
+Comments:
+├─ Setu Chokshi (2026-09-25 12:54:06.153000) [+1]
+│  Agreed, the game matchups are happening maybe once or twice an hour
+├─ Alex Paul (2026-09-25 09:30:54.183000) [+1]
+│  Yes, I noticed it too. Earlier submissions used to take usually 5 hours, sometimes up to 8 hours, to converge; now, it sometimes takes more than a day
+├─ Omkar Kadam (2026-09-25 14:47:30.963000) [+0]
+│  How to see this info for my submissions if i want to see ?
+  ├─ デワンシュ (2026-09-25 16:09:50.550000) [+0]
+  │  This is not available directly, what you can do is, scrape the replay logs of three runs of your agent and then run a script to calculate and get those stats.
+├─ デワンシュ (2026-09-25 08:57:49.397000) [+0]
+│  noticed the slow rating updates starting some time between 14:43 and 19:03 UTC on Sept 23.

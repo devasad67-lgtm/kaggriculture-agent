@@ -1,0 +1,26 @@
+games 30 final 105109 92825
+REVENUE
+  WHEAT           17129    48770  -31641
+  STRAWBERRY      28464    25604   +2860
+  MILK            20878    20945     -67
+  WOOL            17162    16074   +1088
+  FERTILIZER      12192    15621   -3429
+  MELON           12015    15689   -3673
+  CARROT           8756     6088   +2668
+  EGG              9107     4775   +4331
+  TOMATO           8567     3302   +5266
+  total 134270 156867
+COSTS
+  PROD:WHEAT           5822    39169  -33348
+  HIRE                 5698     5639     +59
+  LAND                 4867     3933    +933
+  SEED:STRAWBERRY      3027     4197   -1170
+  ANIMAL:COW           3773     3173    +600
+  ANIMAL:SHEEP         2750     3500    -750
+  SEED:WHEAT           1685     1614     +71
+  ANIMAL:GOOSE         2020     1080    +940
+  PROD:FERTILIZER         0     2742   -2742
+  SEED:CARROT          1293      953    +340
+  SEED:MELON            803     1312    -509
+  SEED:TOMATO           900      345    +555
+  total 32637 67658

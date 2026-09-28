@@ -1,0 +1,22 @@
+Topic #731587: Comment on the final evaluation for this competition
+  Author: María Cruz
+  Posted: 2026-07-31 17:03:26.329000
+  Votes: 23  Comments: 3
+
+Hi everyone,
+
+For those of you familiar with Kaggle simulations, you may notice the final evaluation is different compared to other competitions of the same format. At the submission deadline, we will continue allowing submissions to run episodes for two weeks. At the end of those two weeks, we will be running a single Bradley-Terry Tournament, which will determine the final leaderboard rankings. This is also specified in the Evaluation section in the Overview tab. While this is different from other simulations, we believe this change reduces any "hot streaks" that may otherwise influence the final results.
+
+Happy farming! 👨‍🌾
+
+Comments:
+├─ Kavinkumar M (2026-09-15 15:52:55.707000) [+1]
+│  Thanks for clarifying the final evaluation. Two questions on the Bradley-Terry tournament:
+│  
+│  
+│  
+│  Will the tournament be fit on only the episodes played oct 1-15 oct, or on the full episode history inc...
+├─ [deleted] (2026-09-19 22:16:45.890000) [+0]
+│  [deleted]
+├─ Marie Victoire IPOUK (2026-09-18 00:14:21.070000) [+0]
+│  thank you for your sharing

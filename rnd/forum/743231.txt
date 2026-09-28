@@ -1,0 +1,151 @@
+Topic #743231: Six things I wish I'd known before trusting my local win rates
+  Author: Yujin Cha
+  Posted: 2026-09-25 09:33:32.845000
+  Votes: 3  Comments: 0
+
+I spent a few days building a local evaluation setup for Kaggriculture. Most of what I learned is about
+measurement, not strategy: how easy it is to fool yourself with head-to-head numbers. Sharing in case
+it saves someone a bad submission.
+
+All numbers come from the fast local simulator plus the community episode dataset
+(georgymamarin/kaggriculture-episodes).
+Big thanks to its maintainer, and to destbreso for the stream_hashes normalisation.
+
+
+
+1. Outcomes cluster by seed, so 3 seeds is noise
+
+In this game, the seed decides much more than the seat. Swapping seats on the same seed usually
+gives the same score pair to within a few points. So "3 seeds × both seats = 6 games" is really
+closer to 3 independent samples.
+
+A concrete case: one agent scored 2/6 against a strong lineage on seeds 0–2. Adding seeds 3–5,
+it went 6/6 on the new ones, 8/12 overall. The conclusion flipped completely.
+
+Rule of thumb: use at least 6 seeds, and treat the seed (not the game) as your unit of evidence.
+
+2. Head-to-head against your current best is a trap
+
+The game is strongly non-transitive. The public v7 shop-router lineage is a good example:
+
+
+
+
+v7 vs …
+result
+
+
+
+
+hybrid2965 lineage
+12/12 (+11k margin)
+
+
+V53 lineage
+0/12 (−4.9k)
+
+
+2945 lineage, herd-safe family, wonderful-life family
+0/6 each
+
+
+
+
+If your gate is "the candidate beats the current champion", v7 can look like a champion while losing
+to most of the ladder. I did exactly that once. The fix that worked for me:
+
+
+
+Build a pool per lineage, with 2 representative agents each.
+
+Weight each lineage's win rate by how often you'll actually meet it (see #3).
+
+Add "walls": lineages you must not lose to. Judge a wall by its weakest agent, not the
+lineage average. An easy sibling can hide a 0/6. That happened to me with V53 (0/6) and K0013 V46
+(6/6), which share the same opening.
+
+
+When I checked the weighted score against real ladder ratings, the order matched. A lineage-weighted
+gauntlet put hybrid (≈2640 on the ladder) far above v7 (≈1650); head-to-head alone had them the
+other way round.
+
+3. Who you meet depends on your rating, so build the pool for the band you're aiming at
+
+Matchmaking pairs you with nearby ratings, so the opponent mix changes completely between rating bands.
+
+
+
+At 1500–1900, two lineages (the a1-t31/hack family and utils-v1) are almost half of all
+opponents (24% + 23%).
+
+At 2450–2850, neither of them shows up in any meaningful way. A different handful of large
+public lineages dominates instead, with a long tail of small (often private) agents.
+
+
+So if you tune against the opponents in your own replays, you are tuning for the band you're in, not
+the band you want to reach.
+
+How to measure it (this sidesteps the dataset's replay-coverage bias):
+
+
+
+Label each submission with its most common stream_h48 over whatever replays of it are stored.
+Replay coverage drops to ~0% for the newest day, but a handful of games is enough to label a submission.
+
+Count opponents over the full episodes.csv index, filtered to your target rating band, and map
+each opponent submission to its label.
+
+
+4. Opening fingerprints work, but the opening depends on the opponent
+
+stream_h48 (a sha256 of the first 48 actions) is a great lineage ID. You can compute it for your
+local files and join them straight to ladder seats. But the opening is not always independent of
+the opponent.
+
+
+
+It is independent of the seed and the seat.
+
+But hybrid2965 plays one opening against v7 and a different one against V53 or herd-safe
+agents, probably because it reacts to the opponent's turn-0 market orders.
+
+
+If you fingerprint every agent against a single reference opponent, you can mislabel a lineage as
+two different agents (I did). Fingerprint against 2–3 different opponents and keep the set of hashes.
+
+5. A "mirror" matchup is decided by sale timing
+
+Several top public agents are forks of the same tape. In one such pairing, both farms were
+identical, with the same crops and animals on days 10, 20 and 29 and money within a few coins
+through day 16. The game was then decided entirely by when and how much each side sold on days 17–25,
+mostly wool, whose price swung from 226 down to 31 and even 1 when both dumped at once.
+
+If you fork a popular tape, your edge against its siblings lives almost entirely in the market layer.
+Test sale-logic changes against those siblings specifically, not only against a broad pool.
+
+6. A negative result: splitting endgame bulk sales made things worse
+
+v7's endgame route issues SELL &lt;item&gt; 1000 orders from day 27 on, dumping the whole shed at once.
+That looked like an obvious leak, so I wrapped it to sell in even per-turn slices instead.
+
+Result over 6 seeds: own score dropped by ~1000 against both V53 and hybrid, and v7's gap to
+V53 didn't close (−4.9k → −6.2k). Late-season prices seem to reward getting stock out early. And
+v7's problem against V53 is ~5k deep, well before the endgame.
+
+
+
+Small practical tips
+
+
+
+kaggle kernels list --competition kaggriculture only returns a few dozen kernels. Keyword
+--search finds many more public agents.
+
+In Python, read JSON written by PowerShell with encoding="utf-8-sig". A UTF-8 BOM silently broke
+my daily pipeline on a cp949 system.
+
+
+Happy to answer questions about the method. I've kept this post to things that help everyone
+measure better. Good luck on the ladder!
+
+No comments

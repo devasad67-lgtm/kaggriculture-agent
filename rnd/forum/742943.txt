@@ -1,0 +1,113 @@
+Topic #742943: [Tool] A byte-identical Rust simulator for Kaggriculture: ~550k steps/s, parallel tournaments, self-play data
+  Author: Debmalya
+  Posted: 2026-09-24 09:44:01.313000
+  Votes: 8  Comments: 1
+
+I'm releasing an open-source simulator and evaluation toolkit for this competition, in case it saves others the time it saved me.
+
+
+
+GitHub: https://github.com/debmalyaroy/kaggriculture-simulation (Apache-2.0)
+
+Kaggle dataset (static Linux binary + Python package, ready for notebooks): https://www.kaggle.com/datasets/debmalya84/kaggriculture-simulation
+
+
+What it is
+
+A Rust port of the official Kaggriculture interpreter (kaggle-environments==1.32.7) that produces identical game state at every step, plus tooling around it:
+
+
+
+kagg serve / kaggsim.env: a step-by-step environment (gym-style reset / step) your Python agents or RL code can drive.
+
+kagg tournament: your main.py against a panel of agents (other main.py files, recorded tapes, built-in fixtures), across many worlds, in parallel. You get per-opponent, per-world and per-seat scores with confidence intervals, and a paired A/B verdict (McNemar) between two builds.
+
+kagg selfplay: labelled self-play data (features, and labels such as outcome and discounted return) streamed to a JSONL file or to any program that reads stdin, so you can plug in your own feature extractor.
+
+Tapes: replay to action stream, splice, validate, turn a tape into a runnable main.py, and batch-play thousands of tape pairs.
+
+Replay tools: reproduce any replay exactly, continue it from any step with different actions, and break down where each player's money came from.
+
+
+How "byte-identical" is checked
+
+The differential suite drives the official interpreter and the Rust engine with the same actions and compares a digest of the full state after every step: both banks as IEEE-754 bit patterns, every field of every tile, both players' private blocks (shed, seeds, carried items), market inventory and prices, and the unlocked shops. The episodes come from synthetic policies (random soup including illegal actions, observation-aware random play, a scripted farmer, a last-turn seller) in both seats. CI runs 50 episodes per push and 500 nightly on fresh seeds. Games played by Python agents through the tournament runner are also checked against the official runner's final banks.
+
+Engine details worth knowing (these apply to any simulator you write)
+
+
+
+719 actions, not 720. The official runner asks for actions at steps 0..718 and scores the step-719 state. A driver that applies a 720th action (and the extra end-of-day it triggers) changes the bank of any agent that acts on the last turn.
+
+Empty [] entries are positional. Market orders settle one order index at a time, in lockstep across both players, and hands[i] goes to hand i. Dropping an empty entry changes which orders settle together, and which hand does what.
+
+The world is realized by play. Weeds and shop unlocks draw from the same per-day RNG, and weeds take one draw per empty tile. So the shops you get depend on the seed and on both players' actions. The first shop is fixed by the end of step 71 and the second by step 143.
+
+Check your engine version. 1.32.7 changed CARROT/TOMATO/EGG scarcity pricing (the "hinge" curve). An older kaggle_environments left in a user site-packages directory silently prices on the old curves. The toolkit hashes the engine file and refuses anything but the pinned release.
+
+Call agents like the official runner. Truncate (obs, configuration) to the agent's argument count, give each seat its own fresh observation copy containing only its own private block, and pass an attribute-accessible configuration.
+
+
+Speed (indicative, measured on a loaded desktop with 1 to 2 workers)
+
+
+
+
+
+
+
+
+
+
+step function, 1 thread
+~550,000 steps/s (~770 full games/s)
+
+
+batch of tape pairs, 2 threads
+~850 games/s
+
+
+same 20 games with Python agents: official env.run
+~2.5 s/game
+
+
+same 20 games: kagg tournament, 2 workers
+~0.15 s/game (about 16x), identical banks
+
+
+memory, 1,000 games on 2 workers
+~7 MiB
+
+
+
+
+Quick start in a notebook
+
+import os, shutil, sys
+DS = "/kaggle/input/kaggriculture-simulation"
+shutil.copy(f"{DS}/kagg", "/kaggle/working/kagg"); os.chmod("/kaggle/working/kagg", 0o755)
+os.environ["KAGG_BIN"] = "/kaggle/working/kagg"; os.environ["PYTHONPATH"] = DS
+sys.path.insert(0, DS)
+
+from kaggsim.serve import run_match, load_agent
+print(run_match(load_agent("/kaggle/working/main.py"), load_agent("/kaggle/working/main.py"), seed=3))
+
+
+Limitations
+
+
+
+Default configuration only (no custom marketParams).
+
+Tape-based tools are open loop: a recorded stream doesn't react to a different opponent.
+
+Python agents still run in Python. The engine is fast, but a slow agent is still slow.
+
+
+The repository contains no competition agents or strategy, only the engine, the tools and synthetic test fixtures. Bug reports, especially any divergence from the official engine, are very welcome: python -m kaggsim.fidelity diverge a.py b.py --seed N prints the first step where the two engines disagree.
+
+Not affiliated with Kaggle. The engine is a port of the Kaggriculture environment in kaggle-environments (Apache-2.0).
+
+Comments:
+├─ Syed Asad Ali (2026-09-24 17:13:20.610000) [+0]
+│  Thanks for sharing this, and especially for the step-by-step differential testing against the official interpreter. The "719 actions" and "empty entries are positional" notes are exactly the kind o...

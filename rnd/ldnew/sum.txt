@@ -1,0 +1,296 @@
+113403777 static             margin=   -596 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: STRAWBERRY -848 (120@58 vs 128@61) | MILK -747 (138@83 vs 147@83) | EGG -53 (80@53 vs 81@53)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113413229 Yuta               margin=   -232 MIRROR quads me/op d8=2/2 d14=3/3
+    worst: STRAWBERRY -356 (118@139 vs 126@133) | EGG -165 (80@55 vs 83@55) | FERTILIZER -129 (281@43 vs 284@43)
+113422640 MatheusPSorancoDeC margin=   -633 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: WHEAT -120 (281@40 vs 284@40) | STRAWBERRY -62 (137@34 vs 118@40) | MILK -41 (115@73 vs 114@74)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113426064 lc今天刷了吗            margin=   -167 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: WHEAT -1884 (282@39 vs 339@38) | CARROT -1617 (123@67 vs 159@62) | STRAWBERRY -1003 (149@19 vs 142@27)
+    d10 diff me/op: {'CARROT': (0, 4), 'WHEAT': (5, 1)}
+    d20 diff me/op: {}
+113440247 kaibaur            margin=   -171 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -2631 (55@45 vs 111@46) | STRAWBERRY -847 (113@241 vs 117@240) | MILK -421 (146@190 vs 149@189)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113453211 Munshi-PremChand   margin=    -71 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -2989 (68@61 vs 117@61) | STRAWBERRY -262 (133@26 vs 124@30) | FERTILIZER -82 (284@41 vs 286@41)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113457627 Michael Pershin    margin=  -1863 SAMEQ  quads me/op d8=2/2 d14=4/4
+    worst: CARROT -40 (37@40 vs 38@40) | MILK -27 (87@9 vs 81@10) | MELON +0 (12@131 vs 12@131)
+    d10 diff me/op: {}
+    d20 diff me/op: {'WEED': (1, 2)}
+113462974 Teraya             margin=  -4799 SAMEQ  quads me/op d8=2/2 d14=4/4
+    worst: WHEAT -43 (388@43 vs 389@43) | CARROT +0 (36@41 vs 36@41) | MELON +0 (12@131 vs 12@131)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113464469 Tariq Alyami       margin=  -1595 MIRROR quads me/op d8=2/2 d14=3/3
+    worst: EGG -53 (82@53 vs 83@53) | FERTILIZER +0 (281@42 vs 281@42) | MELON +0 (12@131 vs 12@131)
+113476697 clove instalocker  margin=  -1755 SAMEQ  quads me/op d8=2/2 d14=4/4
+    worst: CARROT -2677 (37@54 vs 85@55) | STRAWBERRY -10 (115@21 vs 97@25) | MELON +0 (12@131 vs 12@131)
+    d10 diff me/op: {}
+    d20 diff me/op: {'WEED': (1, 0)}
+113491259 DaoHe Liu          margin=   -251 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -2152 (64@57 vs 100@58) | FERTILIZER -82 (283@41 vs 285@41) | MILK -80 (95@14 vs 94@15)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113498697 YJ Wee 2807        margin=   -319 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: STRAWBERRY -811 (113@232 vs 117@231) | CARROT -182 (54@60 vs 58@59) | FERTILIZER -129 (281@43 vs 284@43)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113512781 Rasmus Hulthe      margin=   -878 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -1195 (125@67 vs 145@66) | WOOL -122 (59@8 vs 54@11) | MELON +0 (12@131 vs 12@131)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113528865 Reinforcement Larp margin=   -549 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: WHEAT -405 (3646@45 vs 3655@45) | STRAWBERRY -215 (125@59 vs 115@66) | CARROT -189 (51@61 vs 55@60)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113535325 leave you          margin=  -3840 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: STRAWBERRY -17742 (130@133 vs 232@151) | TOMATO -5734 (0@0 vs 61@94) | CARROT -853 (55@41 vs 74@42)
+    d10 diff me/op: {}
+    d20 diff me/op: {'CARROT': (0, 5), 'WHEAT': (25, 8), 'TOMATO': (0, 12)}
+113536692 Dzmitry Pihulski   margin=   -624 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -821 (117@68 vs 131@67) | EGG -176 (73@44 vs 77@44) | STRAWBERRY -112 (119@160 vs 126@152)
+    d10 diff me/op: {}
+    d20 diff me/op: {'CARROT': (0, 2), 'WHEAT': (25, 23), 'WEED': (1, 0)}
+113540557 Xiaowenhao404      margin=    -10 MIRROR quads me/op d8=2/2 d14=3/3
+    worst: WOOL -31 (43@11 vs 36@14) | FERTILIZER +0 (282@43 vs 282@43) | MELON +0 (12@131 vs 12@131)
+113540619 Yaroslav           margin=  -6696 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: STRAWBERRY -32621 (115@213 vs 262@218) | TOMATO -5544 (0@0 vs 72@77) | CARROT -5296 (52@56 vs 144@57)
+    d10 diff me/op: {}
+    d20 diff me/op: {'SHEEP': (4, 3), 'CARROT': (0, 10), 'WHEAT': (25, 7), 'TOMATO': (0, 9)}
+113542285 senkin13           margin=  -1716 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: WHEAT -960 (338@40 vs 362@40) | MELON -624 (12@131 vs 18@122) | STRAWBERRY -526 (119@130 vs 129@124)
+    d10 diff me/op: {}
+    d20 diff me/op: {'MELON': (0, 2), 'WHEAT': (25, 23)}
+113547573 east               margin=   -594 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -1430 (92@65 vs 114@65) | FERTILIZER -129 (276@43 vs 279@43) | MELON +0 (12@131 vs 12@131)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113570035 Yizhou             margin= -14936 DIFF   quads me/op d8=2/2 d14=3/3
+    worst: STRAWBERRY -25016 (116@123 vs 244@161) | MILK -21583 (143@214 vs 245@213) | TOMATO -7200 (0@0 vs 90@80)
+    d10 diff me/op: {'MELON': (2, 5), 'SHEEP': (4, 3), 'COW': (9, 11), 'GOOSE': (0, 4), 'WHEAT': (5, 20), 'TOMATO': (0, 1), 'STRAWBERRY': (20, 24)}
+    d20 diff me/op: {'SHEEP': (5, 3), 'COW': (9, 11), 'GOOSE': (3, 7), 'WHEAT': (25, 16), 'TOMATO': (0, 13), 'STRAWBERRY': (33, 24)}
+113573602 Carl Pang          margin=   -170 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: STRAWBERRY -774 (114@189 vs 120@186) | FERTILIZER -126 (271@42 vs 274@42) | CARROT -100 (140@78 vs 145@76)
+    d10 diff me/op: {}
+    d20 diff me/op: {'WEED': (0, 1)}
+113577022 tyz123456          margin=    -78 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: WHEAT -91450 (376@42 vs 2494@43) | STRAWBERRY -312 (134@42 vs 132@45) | WOOL -103 (60@8 vs 53@11)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113583996 Raymond Parker     margin=   -817 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -828 (111@69 vs 123@69) | MILK -132 (81@8 vs 78@10) | FERTILIZER +0 (270@40 vs 270@40)
+    d10 diff me/op: {}
+    d20 diff me/op: {'CARROT': (1, 5), 'WHEAT': (22, 18)}
+113589978 cicen1139          margin=  -5383 SAMEQ  quads me/op d8=2/2 d14=4/4
+    worst: WHEAT -308 (351@44 vs 358@44) | CARROT +0 (36@36 vs 36@36) | MELON +0 (12@131 vs 12@131)
+    d10 diff me/op: {'STRAWBERRY': (19, 20)}
+    d20 diff me/op: {'WEED': (0, 1), 'STRAWBERRY': (32, 33)}
+113597633 shikaikaikaikai    margin=  -1318 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -3306 (58@55 vs 116@56) | STRAWBERRY -39 (114@19 vs 105@21) | EGG +0 (0@0 vs 0@0)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113612144 just_calculate     margin=   -868 SAMEQ  quads me/op d8=2/2 d14=4/4
+    worst: CARROT +0 (37@44 vs 37@44) | MELON +0 (12@131 vs 12@131) | WHEAT +129 (365@43 vs 362@43)
+    d10 diff me/op: {}
+    d20 diff me/op: {'WEED': (3, 1)}
+113617473 Shs123             margin=   -859 SAMEQ  quads me/op d8=2/2 d14=4/4
+    worst: CARROT -2051 (37@52 vs 75@53) | WOOL -960 (154@160 vs 160@160) | MILK -103 (103@105 vs 103@106)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113377016 YJ Wee 2807        margin=   -214 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -2088 (145@58 vs 181@58) | FERTILIZER -273 (272@39 vs 279@39) | STRAWBERRY -120 (114@40 vs 104@45)
+    d10 diff me/op: {}
+    d20 diff me/op: {'CARROT': (6, 8), 'WHEAT': (17, 13)}
+113382891 Yuanchen Huang     margin=  -3780 SAMEQ  quads me/op d8=2/2 d14=4/4
+    worst: WHEAT -258 (343@43 vs 349@43) | MILK -109 (109@106 vs 109@107) | CARROT +0 (36@36 vs 36@36)
+    d10 diff me/op: {}
+    d20 diff me/op: {'WEED': (1, 3)}
+113386491 PavelLiashkov      margin=  -5269 MIRROR quads me/op d8=2/2 d14=4/4
+    worst: WHEAT -386 (386@42 vs 386@43) | MILK -25 (89@5 vs 94@5) | CARROT +0 (37@48 vs 37@48)
+113388812 sam_the_rice_cake  margin=  -4350 SAMEQ  quads me/op d8=2/2 d14=4/4
+    worst: STRAWBERRY -80 (114@16 vs 112@17) | MILK -64 (94@29 vs 93@30) | CARROT +0 (37@60 vs 37@60)
+    d10 diff me/op: {}
+    d20 diff me/op: {'WEED': (2, 0)}
+113394408 s_a_ai_engineer    margin=   -307 MIRROR quads me/op d8=2/2 d14=3/3
+    worst: MILK -78 (117@35 vs 107@39) | CARROT +0 (55@39 vs 55@39) | MELON +0 (12@131 vs 12@131)
+113394811 AI Dmitrii         margin=   -828 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: WHEAT -741 (402@39 vs 421@39) | CARROT -224 (56@56 vs 60@56) | EGG -120 (82@60 vs 84@60)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113398202 tamref             margin=  -1943 SAMEQ  quads me/op d8=2/2 d14=4/4
+    worst: WHEAT -410 (344@41 vs 354@41) | CARROT -72 (36@36 vs 38@36) | MELON +0 (12@131 vs 12@131)
+    d10 diff me/op: {}
+    d20 diff me/op: {'WEED': (0, 1)}
+113398294 Arthurs Torres24   margin=   -756 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -774 (117@74 vs 131@72) | EGG -180 (73@45 vs 77@45) | MILK -138 (116@18 vs 106@21)
+    d10 diff me/op: {}
+    d20 diff me/op: {'CARROT': (0, 2), 'WHEAT': (25, 23)}
+113399453 wonder777          margin=   -202 SAMEQ  quads me/op d8=2/2 d14=4/4
+    worst: CARROT -2543 (53@60 vs 97@59) | FERTILIZER -224 (305@32 vs 312@32) | MILK -86 (91@22 vs 87@24)
+    d10 diff me/op: {}
+    d20 diff me/op: {'WEED': (2, 1)}
+113400211 Brian Chua         margin=    -52 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -423 (129@93 vs 135@92) | STRAWBERRY -236 (118@211 vs 118@213) | FERTILIZER -86 (283@43 vs 285@43)
+    d10 diff me/op: {}
+    d20 diff me/op: {'CARROT': (1, 2), 'WHEAT': (24, 23)}
+113405273 tw1nstar           margin=   -328 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: WOOL -1494 (153@227 vs 161@225) | MILK -951 (115@42 vs 123@47) | MELON +0 (12@131 vs 12@131)
+    d10 diff me/op: {}
+    d20 diff me/op: {'WEED': (0, 1), 'STRAWBERRY': (33, 32)}
+113407568 Aaweg              margin=   -514 DIFF   quads me/op d8=2/2 d14=3/4
+    worst: STRAWBERRY -12700 (132@71 vs 178@124) | WHEAT -11095 (336@35 vs 653@35) | TOMATO -8584 (0@0 vs 116@74)
+    d10 diff me/op: {'MELON': (2, 4), 'SHEEP': (5, 4), 'COW': (8, 9), 'GOOSE': (0, 5), 'WHEAT': (5, 23), 'WEED': (0, 1), 'TOMATO': (0, 1), 'STRAWBERRY': (20, 19)}
+    d20 diff me/op: {'SHEEP': (6, 4), 'COW': (8, 9), 'GOOSE': (3, 7), 'WHEAT': (25, 34), 'WEED': (0, 3), 'TOMATO': (0, 18), 'STRAWBERRY': (33, 20)}
+113408752 Yin Li             margin=   -497 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: WHEAT -972 (262@36 vs 289@36) | FERTILIZER -156 (272@39 vs 276@39) | MELON +0 (12@131 vs 12@131)
+    d10 diff me/op: {}
+    d20 diff me/op: {'CARROT': (1, 6), 'WHEAT': (22, 17)}
+113412234 🐚seek inspiration🐚 margin= -17347 DIFF   quads me/op d8=2/2 d14=3/3
+    worst: STRAWBERRY -27095 (124@223 vs 237@231) | MILK -5095 (115@26 vs 147@55) | EGG -4505 (86@53 vs 171@53)
+    d10 diff me/op: {'MELON': (2, 6), 'SHEEP': (5, 3), 'GOOSE': (0, 3), 'WHEAT': (5, 13), 'STRAWBERRY': (20, 36)}
+    d20 diff me/op: {'SHEEP': (6, 3), 'GOOSE': (3, 6), 'WHEAT': (25, 7), 'TOMATO': (0, 3), 'STRAWBERRY': (33, 47)}
+113412702 clora              margin=    -59 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -2311 (64@57 vs 101@59) | WOOL -122 (59@8 vs 54@11) | MELON +0 (12@131 vs 12@131)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113413378 Carl Pang          margin=  -1112 MIRROR quads me/op d8=2/2 d14=3/3
+    worst: FERTILIZER -120 (272@40 vs 275@40) | CARROT -49 (37@49 vs 38@49) | MELON +0 (12@131 vs 12@131)
+113414638 Ian lin            margin=   -126 MIRROR quads me/op d8=2/2 d14=3/3
+    worst: STRAWBERRY -858 (121@126 vs 122@132) | WHEAT -320 (309@40 vs 317@40) | CARROT -264 (115@66 vs 119@66)
+113417058 ziheng             margin=   -257 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: WOOL -138 (54@9 vs 52@12) | WHEAT -135 (3641@45 vs 3644@45) | STRAWBERRY -116 (116@232 vs 116@233)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113420566 HD h Joratos       margin=   -793 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: FERTILIZER -82 (270@41 vs 272@41) | CARROT +0 (36@51 vs 36@51) | MELON +0 (12@131 vs 12@131)
+    d10 diff me/op: {}
+    d20 diff me/op: {'WEED': (1, 0)}
+113421709 Huifeng Li         margin=   -122 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -2484 (54@52 vs 98@54) | WOOL -122 (59@8 vs 54@11) | FERTILIZER -42 (280@42 vs 281@42)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113422982 Yusaku Muroya      margin=  -1415 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: STRAWBERRY -2481 (121@111 vs 136@117) | WHEAT -446 (322@30 vs 326@31) | CARROT -176 (57@44 vs 61@44)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113428703 OxFFFs             margin=  -1124 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: WHEAT -246810 (266@36 vs 6574@39) | STRAWBERRY -1638 (126@50 vs 126@63) | CARROT -702 (97@54 vs 110@54)
+    d10 diff me/op: {}
+    d20 diff me/op: {'CARROT': (0, 2), 'WHEAT': (25, 23)}
+113430092 Anand Singh        margin=    -96 MIRROR quads me/op d8=2/2 d14=3/3
+    worst: STRAWBERRY -848 (115@212 vs 119@212) | CARROT -54 (55@54 vs 56@54) | WOOL -31 (43@11 vs 42@12)
+113432178 Yuan Yongth        margin=   -170 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: STRAWBERRY -402 (121@156 vs 126@153) | WOOL -108 (54@9 vs 54@11) | FERTILIZER -42 (280@42 vs 281@42)
+    d10 diff me/op: {}
+    d20 diff me/op: {'WEED': (1, 0)}
+113432456 base_camp_2002     margin=  -1152 MIRROR quads me/op d8=2/2 d14=3/3
+    worst: WHEAT -520 (391@40 vs 404@40) | STRAWBERRY -66 (121@18 vs 102@22) | FERTILIZER -50 (270@41 vs 278@40)
+113433431 kwon yong deuk     margin=   -247 MIRROR quads me/op d8=2/2 d14=3/3
+    worst: FERTILIZER -135 (272@45 vs 275@45) | WOOL -99 (61@9 vs 54@12) | CARROT +0 (48@51 vs 48@51)
+113435824 abozten            margin=   -662 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: WHEAT -245520 (753@45 vs 6209@45) | FERTILIZER -129 (260@43 vs 263@43) | WOOL -117 (48@11 vs 43@15)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113440919 redblackbst        margin=   -407 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -3480 (38@48 vs 104@51) | STRAWBERRY -2597 (120@21 vs 119@43) | WOOL -1340 (132@112 vs 139@116)
+    d10 diff me/op: {'MELON': (2, 3), 'SHEEP': (7, 9), 'COW': (6, 4), 'STRAWBERRY': (20, 19)}
+    d20 diff me/op: {'MELON': (0, 1), 'SHEEP': (11, 9), 'COW': (6, 4), 'GOOSE': (0, 1), 'PASTURE': (0, 3), 'STRAWBERRY': (33, 32)}
+113441368 七月七月晴 忽然下起了大雪 不敢张开 margin=  -1005 MIRROR quads me/op d8=2/2 d14=3/3
+    worst: STRAWBERRY -491 (124@116 vs 125@119) | WHEAT -240 (391@40 vs 397@40) | EGG -112 (78@56 vs 80@56)
+113443305 bee_lx_xl          margin=     -7 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -780 (114@65 vs 130@63) | FERTILIZER -126 (272@42 vs 275@42) | WOOL -68 (59@8 vs 54@10)
+    d10 diff me/op: {}
+    d20 diff me/op: {'CARROT': (0, 2), 'WHEAT': (25, 23), 'WEED': (1, 0)}
+113449302 Christoffer Thimse margin= -11784 DIFF   quads me/op d8=2/2 d14=3/3
+    worst: WHEAT -40669 (428@42 vs 1585@37) | STRAWBERRY -17192 (125@168 vs 217@176) | FERTILIZER -10269 (273@39 vs 498@42)
+    d10 diff me/op: {'MELON': (2, 6), 'COOP': (0, 1), 'SHEEP': (5, 3), 'COW': (8, 6), 'GOOSE': (0, 7), 'WHEAT': (5, 24), 'STRAWBERRY': (20, 23)}
+    d20 diff me/op: {'SHEEP': (6, 4), 'COW': (8, 4), 'CARROT': (0, 6), 'GOOSE': (3, 9), 'WHEAT': (25, 12), 'STRAWBERRY': (33, 40)}
+113453552 Fighting Gold      margin=   -390 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -2420 (79@55 vs 123@55) | MILK -136 (95@16 vs 92@18) | MELON +0 (12@131 vs 12@131)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113459850 kyy666             margin=   -269 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: MILK -2094 (105@220 vs 114@221) | STRAWBERRY -1782 (84@198 vs 93@198) | CARROT -1628 (37@44 vs 74@44)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113465965 ADARSH DWIVEDI     margin=    -66 MIRROR quads me/op d8=2/2 d14=3/3
+    worst: FERTILIZER -82 (282@41 vs 284@41) | CARROT +0 (120@65 vs 120@65) | MELON +0 (12@131 vs 12@131)
+113470760 John Doge          margin=   -783 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -1596 (89@57 vs 117@57) | FERTILIZER -82 (282@41 vs 284@41) | MELON +0 (12@131 vs 12@131)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113474347 kobayasi           margin=   -533 MIRROR quads me/op d8=2/2 d14=3/3
+    worst: STRAWBERRY -1482 (119@122 vs 125@128) | FERTILIZER -132 (272@44 vs 275@44) | CARROT +0 (51@33 vs 51@33)
+113480819 別班                 margin=    -28 MIRROR quads me/op d8=2/2 d14=3/3
+    worst: MILK -130 (101@22 vs 98@24) | CARROT +0 (55@51 vs 55@51) | EGG +0 (80@58 vs 80@58)
+113486028 dodsters           margin=  -8476 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: STRAWBERRY -26480 (124@169 vs 268@177) | CARROT -3132 (116@58 vs 170@58) | EGG -1008 (80@57 vs 96@58)
+    d10 diff me/op: {'MELON': (2, 1)}
+    d20 diff me/op: {'WHEAT': (25, 13), 'STRAWBERRY': (33, 45)}
+113486140 We wanna be tomato margin= -21337 DIFF   quads me/op d8=2/2 d14=3/3
+    worst: TOMATO -10292 (0@0 vs 124@83) | CARROT -9369 (140@54 vs 297@57) | EGG -5666 (133@43 vs 253@45)
+    d10 diff me/op: {'MELON': (2, 7), 'SHEEP': (5, 3), 'COW': (6, 4), 'GOOSE': (2, 8), 'WHEAT': (5, 33), 'STRAWBERRY': (19, 11)}
+    d20 diff me/op: {'SHEEP': (6, 3), 'COW': (6, 4), 'CARROT': (2, 17), 'GOOSE': (5, 10), 'WHEAT': (23, 11), 'TOMATO': (0, 19), 'STRAWBERRY': (32, 11)}
+113489163 MILANA STARR       margin=   -107 MIRROR quads me/op d8=2/2 d14=3/3
+    worst: FERTILIZER -126 (282@42 vs 285@42) | MELON +0 (12@131 vs 12@131) | EGG +30 (86@57 vs 84@58)
+113493930 Here i come        margin=  -1168 DIFF   quads me/op d8=2/2 d14=4/3
+    worst: WOOL -30312 (152@113 vs 371@128) | MELON -4594 (12@188 vs 50@137) | TOMATO -3476 (0@0 vs 44@79)
+    d10 diff me/op: {'MELON': (2, 5), 'SHEEP': (7, 11), 'GOOSE': (0, 2), 'WHEAT': (5, 9), 'TOMATO': (0, 1), 'STRAWBERRY': (20, 15)}
+    d20 diff me/op: {'MELON': (0, 4), 'SHEEP': (17, 20), 'GOOSE': (0, 2), 'WHEAT': (23, 21), 'WEED': (0, 3), 'TOMATO': (0, 7), 'STRAWBERRY': (33, 10)}
+113500058 OceanMix           margin=   -657 MIRROR quads me/op d8=2/2 d14=3/3
+    worst: WHEAT -23488 (278@37 vs 866@39) | MILK -198 (123@46 vs 122@48) | FERTILIZER -41 (282@41 vs 283@41)
+113507742 Roman Tamrazov 52  margin=   -394 MIRROR quads me/op d8=2/2 d14=3/3
+    worst: STRAWBERRY -215 (139@27 vs 124@32) | FERTILIZER -80 (286@40 vs 288@40) | CARROT +0 (57@49 vs 57@49)
+113512794 kitano0104         margin=  -5219 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: MILK -1782 (131@150 vs 152@141) | FERTILIZER -1125 (253@45 vs 278@45) | WHEAT -129 (361@43 vs 364@43)
+    d10 diff me/op: {'COW': (8, 9)}
+    d20 diff me/op: {'COW': (8, 9)}
+113518445 yuya               margin=   -223 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -1937 (134@65 vs 169@63) | STRAWBERRY -302 (120@174 vs 119@178) | FERTILIZER -82 (279@41 vs 281@41)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113524208 subsubsubagent     margin=   -634 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -1425 (123@72 vs 149@69) | STRAWBERRY -176 (126@88 vs 128@88) | WOOL -130 (58@8 vs 54@11)
+    d10 diff me/op: {}
+    d20 diff me/op: {'CARROT': (2, 1), 'WHEAT': (23, 24)}
+113537361 que la cuenten com margin=   -176 MIRROR quads me/op d8=2/2 d14=3/3
+    worst: STRAWBERRY -348 (116@200 vs 116@203) | FERTILIZER -84 (277@42 vs 279@42) | MILK +61 (69@12 vs 59@13)
+113543193 haseryooooo        margin=   -586 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -1342 (130@65 vs 153@64) | STRAWBERRY -538 (116@187 vs 117@190) | MILK -149 (80@15 vs 71@19)
+    d10 diff me/op: {}
+    d20 diff me/op: {'CARROT': (2, 1), 'WHEAT': (23, 24)}
+113544087 LR.AIML            margin=   -129 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -2426 (58@63 vs 95@64) | TOMATO -183 (5@183 vs 6@183) | MILK -98 (63@12 vs 61@14)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113552391 barbosi            margin=   -114 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: MILK -252 (95@28 vs 91@32) | WOOL -125 (54@9 vs 47@13) | EGG -92 (132@46 vs 134@46)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113557271 loss volos         margin=   -649 SAMEQ  quads me/op d8=2/2 d14=4/4
+    worst: STRAWBERRY -168 (89@55 vs 83@61) | FERTILIZER -136 (301@34 vs 305@34) | WHEAT -82 (347@41 vs 349@41)
+    d10 diff me/op: {}
+    d20 diff me/op: {'WEED': (0, 1)}
+113563081 habe.sq            margin=   -966 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -2108 (138@99 vs 166@95) | FERTILIZER -84 (277@42 vs 279@42) | WOOL -68 (59@8 vs 54@10)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113597945 nikotin55          margin=   -626 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -2167 (101@55 vs 143@54) | MILK -526 (113@33 vs 115@37) | FERTILIZER -123 (283@41 vs 286@41)
+    d10 diff me/op: {}
+    d20 diff me/op: {'CARROT': (0, 1), 'WHEAT': (25, 24)}
+113607448 Hak                margin=   -264 MIRROR quads me/op d8=2/2 d14=3/3
+    worst: STRAWBERRY -810 (118@172 vs 122@173) | FERTILIZER -129 (281@43 vs 284@43) | WOOL -122 (59@8 vs 54@11)
+113614251 Remielle           margin=    -96 SAMEQ  quads me/op d8=2/2 d14=3/3
+    worst: CARROT -1860 (89@60 vs 120@60) | FERTILIZER -123 (279@41 vs 282@41) | MELON +0 (12@131 vs 12@131)
+    d10 diff me/op: {}
+    d20 diff me/op: {}
+113614447 Deepseek的恩情还不完     margin=     -5 MIRROR quads me/op d8=2/2 d14=3/3
+    worst: WHEAT -173 (333@39 vs 329@40) | CARROT -52 (38@52 vs 39@52) | MELON +0 (12@131 vs 12@131)
